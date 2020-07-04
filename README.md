@@ -1,0 +1,2 @@
+# menyoba-ngoding
+mencoba koding
